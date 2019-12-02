@@ -1,0 +1,1 @@
+- fixed size, variable depth. (the world's questions and answers.)
