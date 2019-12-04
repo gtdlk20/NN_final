@@ -1,1 +1,0 @@
-- Brain trying to predict things that would happen, and will assume it has already happened, so that when another thing happens, I become alert because 'something is wrong'.

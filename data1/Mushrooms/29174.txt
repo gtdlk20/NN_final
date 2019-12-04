@@ -1,1 +1,0 @@
-Picture a 3D cone.  Now take a 2D plane (a knife or a piece of paper) and cut through the cone.  The line or tangent formed by the intersected objects is now either a circle, an ellipse or a hyperbole.  From the vantage point of the cone it can be said to contain all circles, ellipses and hyperboles.  A kind of 'library' of 2D shapes.

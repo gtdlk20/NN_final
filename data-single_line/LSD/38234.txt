@@ -1,0 +1,1 @@
+window frame were flickering around, and the still bare tree branches

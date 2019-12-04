@@ -1,1 +1,0 @@
-5- Germination results: Jar # of spots #1 7 [all spots are less than 1 cm^2] #2 5 #3 7 #4 1 #5 8+ [the plus means it's hard to differentiate spots] #6 8+ [single spots may really be multiple germinations] #7 10+ #8 7
